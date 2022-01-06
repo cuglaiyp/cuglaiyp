@@ -16,7 +16,7 @@ Hi, I'm cuglaiyp, a Go and Java programmer. I am currently freelancing. Beside P
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Java and Go;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 [Mail to me](cuglaiyp@gmail.com)
+- 📫 [Mail to me](mailto:cuglaiyp@gmail.com)
   <br />
   <br />
 
@@ -37,8 +37,8 @@ Hi, I'm cuglaiyp, a Go and Java programmer. I am currently freelancing. Beside P
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 58 mins   █████████████████████▓░░░   86.66 % 
-C++      24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Go       2 hrs 58 mins   █████████████████████▓░░░   86.66 % 
+Java     24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Bash     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
