@@ -3,7 +3,10 @@
 <a href="https://leetcode-cn.com/u/mess-e/">
   <img align="left" alt="Phoenix's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=cuglaiyp.cuglaiyp)
+
+![](https://visitor-badge.glitch.me/badge?page_id=cuglaiyp)
+
+
 <br />
 <br />
 
